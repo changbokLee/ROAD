@@ -1,2 +1,3 @@
-# WoW-Book
-제주코딩 20명의사람들과함께한 프론트입문서입니다. 
+# React TuTorial
+## Setting in Window
+> yarn , node , gitbash
