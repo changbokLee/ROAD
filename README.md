@@ -1,3 +1,3 @@
 # React TuTorial
 ## Setting in Window
-> yarn , node , gitbash
+> 니꼴라스 
